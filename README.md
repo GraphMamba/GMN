@@ -20,7 +20,7 @@ If you find this work useful, please cite our paper:
   author={Ali Behrouz and Farnoosh Hashemi},
   year={2024},
   eprint={2402.08678},
-  archivePrefix={},
+  archivePrefix={arXiv},
   primaryClass={cs.LG}
 }
 ```
