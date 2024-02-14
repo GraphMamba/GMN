@@ -10,7 +10,7 @@
 
 ## Citation
 
-If you find this work useful, please cite our NeurIPS 2022 paper:
+If you find this work useful, please cite our paper:
 ```bibtex
 @article{behrouz2024GMN,
   title={{Graph Mamba: Towards Learning on Graphs with State Space Models}}, 
