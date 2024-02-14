@@ -4,7 +4,7 @@
 
 
 
-![GMNs-viz](./GMNs.png)
+![GMNs-viz](./GMN.png)
 
 
 
