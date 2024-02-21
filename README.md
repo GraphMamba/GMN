@@ -3,7 +3,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2205.12454-b31b1b.svg)](https://arxiv.org/abs/2402.08678)
 
 
-### <ins>Codes and models will be available soon (By Feb 20)</ins>.
+### <ins>Codes and models will be available soon (By end Feb)</ins>.
 
 
 
