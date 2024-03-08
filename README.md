@@ -15,12 +15,10 @@
 
 If you find this work useful, please cite our paper:
 ```bibtex
-@article{behrouz2024GMN,
-  title={{Graph Mamba: Towards Learning on Graphs with State Space Models}}, 
-  author={Ali Behrouz and Farnoosh Hashemi},
-  year={2024},
-  eprint={2402.08678},
-  archivePrefix={arXiv},
-  primaryClass={cs.LG}
+@article{behrouz2024graph,
+  title={Graph Mamba: Towards Learning on Graphs with State Space Models},
+  author={Behrouz, Ali and Hashemi, Farnoosh},
+  journal={arXiv preprint arXiv:2402.08678},
+  year={2024}
 }
 ```
