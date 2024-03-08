@@ -15,7 +15,7 @@
 
 If you find this work useful, please cite our paper:
 ```bibtex
-@article{behrouz2024graph,
+@article{GraphMamba,
   title={Graph Mamba: Towards Learning on Graphs with State Space Models},
   author={Behrouz, Ali and Hashemi, Farnoosh},
   journal={arXiv preprint arXiv:2402.08678},
